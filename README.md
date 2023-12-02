@@ -15,7 +15,7 @@
 7. Search box placeholder text should start with Search.
 8. Search icon/button should have class as search-icon OR trigger search on ENTER.
 9. Action element must be a button with a specific class name like edit, delete, save.
-10. 10. Navigation elements must be a div/button, and should have class name as first-page, previous-page, next-page and last-page and page numbers should be mentioned accordingly.
+10. Navigation elements must be a div/button, and should have class name as first-page, previous-page, next-page and last-page and page numbers should be mentioned accordingly.
 11. On clicking edit action in a row, it should be editable in the row itself.
 12. feel free to use any libraries.
 13. On executing, your application should be running successfully on deployed on vercel, netlify or any similar platform.
